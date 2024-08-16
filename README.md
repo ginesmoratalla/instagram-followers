@@ -1,14 +1,15 @@
 # instagram-followers
-Small python 🐍 script to check instagram followers (who doesn't follow you) 
+Small python 🐍 script to check instagram followers (people who don't follow you back) 
 
 ## Requirements
 - python
-- instaloader python module
+- instaloader python module -> using pip: `pip install instaloader`
+  
 ## Steps
-- Enter the script and change the placeholder values for `username` and `password` to whatever user you want to check
 - execute the script
   ```
   python followers.py
   ```
+- type in `username` and `password` for whatever user you want to check
 - wait until it executes (it's not immediate)
 - yup.

@@ -7,6 +7,7 @@ Small python 🐍 script to check instagram followers (people who don't follow y
   
 ## Steps
 - execute the script
+  
   ```
   python followers.py
   ```
